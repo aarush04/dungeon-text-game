@@ -1,4 +1,4 @@
-# group-project-readme
+# dungeon-text-game
 
 Introduction : Our project for this class is a text-game based called Dungeon. Dungeon is a game that can be played on a browser with a simple UI. It follows an encapsulating storyline, as the user makes choices that effect the outcome of the game in real-time.
 
